@@ -120,8 +120,7 @@ while (index < numericArray.length) {
     es. [f, b, e] --> [6, 2, 5]
 */
 const charactersArray = ["g", "n", "u", "z", "d"];
-charactersArray.indexOf("g");
-console.log(charactersArray.indexOf("g"));
+
 //switch(){
 
 //}
